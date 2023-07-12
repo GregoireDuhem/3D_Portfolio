@@ -39,11 +39,11 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node. js, and Three.
-        js. I'm a quick learner and collaborate closely with clients to create
-        efficient, scalable, and user-friendly solutions that solve real-world
-        problems. Let's work together to bring your ideas to life!
+        I'm a French developper studying at Epitech doing my 5th year. I just
+        finish my full year in Keimyung University in South Korea 🇰🇷 doing game
+        development and 3D animation. I'm passionate about front-end
+        development, game and 3D animation. I also go to the gym and currently
+        learning taekwondo in Korea.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
