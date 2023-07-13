@@ -153,7 +153,7 @@ const experiences = [
     date: "September 2022 - Jully 2023",
     points: [
       "University based in South Korea",
-      "Developement of variety of 2D/3D games with Unity",
+      "Developement of variety of 2D/3D games with Unity, survival runner roguelike",
     ],
   },
   {
@@ -162,7 +162,7 @@ const experiences = [
     icon: keimyung,
     iconBg: "#E6DEDD",
     date: "Febuary 2023 - Jully 2023",
-    points: ["Animation using Maya software"],
+    points: ["Animation using Maya software, making walk run flying animation"],
   },
 ];
 
@@ -239,7 +239,7 @@ const projects = [
       },
     ],
     image: deadlands,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/GregoireDuhem",
   },
   {
     name: "Maze Runner",
@@ -252,7 +252,7 @@ const projects = [
       },
     ],
     image: mazeRunner,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/GregoireDuhem",
   },
   {
     name: "Yuri",
@@ -269,7 +269,7 @@ const projects = [
       },
     ],
     image: yuri,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/GregoireDuhem",
   },
   {
     name: "MarioBros",
@@ -286,7 +286,7 @@ const projects = [
       },
     ],
     image: marioBros,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/GregoireDuhem",
   },
 ];
 
