@@ -4,7 +4,6 @@ import { styles } from "../styles";
 import { SectionWrapper } from "../hoc";
 import { fadeIn, textVariant } from "../utils/motion";
 import { animations } from "../constants";
-import { squirrel } from "../assets";
 
 const AnimationCard = ({ index, name, video }) => (
   <motion.div
@@ -17,11 +16,14 @@ const AnimationCard = ({ index, name, video }) => (
       <div className="mt-7 flex justify-between items-center gap-1">
         <div className="flex-1 flex flex-col">
           <div className="relative w-full h-full">
-            <img
+            {/* <img
               src={video}
               alt={name}
               className="w-full h-full object-cover rounded-2xl"
-            />
+            /> */}
+            <video controls autoPlay loop muted>
+              <source src={video} type="video/mp4"></source>
+            </video>
           </div>
         </div>
       </div>

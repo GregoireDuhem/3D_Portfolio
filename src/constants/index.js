@@ -26,6 +26,10 @@ import {
   marioBros,
   oldPortfolio,
   squirrel,
+  walkingDragon,
+  flyingDragon,
+  gwenSideView,
+  gwenTopView,
 } from "../assets";
 
 export const navLinks = [
@@ -45,8 +49,8 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
-    icon: web,
+    title: "Game Developer",
+    icon: creator,
   },
   {
     title: "Mobile Developer",
@@ -57,8 +61,8 @@ const services = [
     icon: backend,
   },
   {
-    title: "Game Developer",
-    icon: creator,
+    title: "Web Developer",
+    icon: web,
   },
 ];
 
@@ -164,16 +168,24 @@ const experiences = [
 
 const animations = [
   {
-    name: "Maya project",
+    name: "Flying Dragon",
+    video: flyingDragon,
+  },
+  {
+    name: "Gwen",
+    video: gwenSideView,
+  },
+  {
+    name: "Gwen",
+    video: gwenTopView,
+  },
+  {
+    name: "Squirrel animation",
     video: squirrel,
   },
   {
-    name: "Dragon",
-    image: "",
-  },
-  {
-    name: "Flying Dragon",
-    image: "",
+    name: "Walking Dragon",
+    video: walkingDragon,
   },
 ];
 
@@ -193,7 +205,7 @@ const projects = [
       },
     ],
     image: oldPortfolio,
-    source_code_link: "",
+    source_code_link: "https://github.com/GregoireDuhem/MyPortfolio",
   },
   {
     name: "Redditech",

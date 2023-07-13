@@ -31,7 +31,11 @@ import yuri from "./yuri.png";
 import marioBros from "./marioBros.png";
 import oldPortfolio from "./oldPortfolio.png";
 
-import squirrel from "./animations/squirrel.gif";
+import squirrel from "./animations/squirrel.mp4";
+import walkingDragon from "./animations/walkingDragon.mp4";
+import flyingDragon from "./animations/flyingDragon.mp4";
+import gwenSideView from "./animations/gwenSideView.mp4";
+import gwenTopView from "./animations/gwenTopView.mp4";
 
 export {
   logo,
@@ -65,4 +69,8 @@ export {
   marioBros,
   oldPortfolio,
   squirrel,
+  walkingDragon,
+  flyingDragon,
+  gwenSideView,
+  gwenTopView,
 };
