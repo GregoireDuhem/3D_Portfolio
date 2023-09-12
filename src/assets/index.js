@@ -36,6 +36,7 @@ import walkingDragon from "./animations/walkingDragon.mp4";
 import flyingDragon from "./animations/flyingDragon.mp4";
 import gwenSideView from "./animations/gwenSideView.mp4";
 import gwenTopView from "./animations/gwenTopView.mp4";
+import milesMorales from "./animations/milesMorales.mp4";
 
 export {
   logo,
@@ -73,4 +74,5 @@ export {
   flyingDragon,
   gwenSideView,
   gwenTopView,
+  milesMorales,
 };

@@ -30,6 +30,7 @@ import {
   flyingDragon,
   gwenSideView,
   gwenTopView,
+  milesMorales,
 } from "../assets";
 
 export const navLinks = [
@@ -168,16 +169,16 @@ const experiences = [
 
 const animations = [
   {
+    name: "Miles Morales",
+    video: milesMorales,
+  },
+  {
     name: "Flying Dragon",
     video: flyingDragon,
   },
   {
     name: "Gwen",
     video: gwenSideView,
-  },
-  {
-    name: "Gwen",
-    video: gwenTopView,
   },
   {
     name: "Squirrel animation",
