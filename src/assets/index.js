@@ -20,6 +20,7 @@ import csharp from "./tech/csharp.png";
 import flutter from "./tech/flutter.png";
 import tech_github from "./tech/github.png";
 import c from "./tech/c.png";
+import blender from "./tech/blender.png";
 import woop from "./company/woop.png";
 import diskyver from "./company/diskyver.png";
 import keimyung from "./company/keimyung.png";
@@ -58,6 +59,7 @@ export {
   maya,
   csharp,
   flutter,
+  blender,
   woop,
   diskyver,
   keimyung,

@@ -16,6 +16,7 @@ import {
   flutter,
   tech_github,
   c,
+  blender,
   woop,
   diskyver,
   keimyung,
@@ -71,6 +72,10 @@ const technologies = [
   {
     name: "Maya",
     icon: maya,
+  },
+  {
+    name: "Blender",
+    icon: blender,
   },
   {
     name: "C#",
